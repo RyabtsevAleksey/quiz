@@ -1,6 +1,6 @@
 import React from "react";
 import "..//src/App.scss";
-import { questions } from "./Questions";
+import { questions } from "./Questions.js";
 import Game from "./Game";
 import Result from './Result.js'
 

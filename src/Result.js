@@ -1,4 +1,4 @@
-import questions from './Questions.js'
+import {questions} from './Questions.js'
 
 import React from 'react'
 
